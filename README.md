@@ -1,3 +1,13 @@
+**This technology is schedule for deprecation.**
+
+This repository will be archived and will no longer be updated.
+
+See our [Update on Plans for Privacy Sandbox Technologies](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/).
+
+[Privacy Sandbox feature status](https://privacysandbox.google.com/overview/status) provides more information about the status of individual APIs and platform features.
+
+---
+
 # Android Topics Classifier Demo
 
 This repository contains the source code for the Android Topics API Classifier Execution Demo, a Google Colab project you can use to test what topics results are returned from the Android Topics Classifier with different types of app information. 
